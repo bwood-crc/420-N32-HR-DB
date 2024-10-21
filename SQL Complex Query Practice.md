@@ -1,10 +1,10 @@
-SQL Aggregates, Subselect and Join Practice
+# SQL Aggregates, Subselect and Join Practice
 
-# Sample Database
+## Sample Database
 
 <https://raw.githubusercontent.com/bwood-crc/420-N32-HR-DB/refs/heads/main/hr_database_mysql.sql>
 
-# Aggregate Functions and Group (14 Questions)
+## Aggregate Functions and Group (14 Questions)
 
 1. List the number of jobs available in the employees table.
 2. Get the total salaries payable to employees.
@@ -21,7 +21,7 @@ SQL Aggregates, Subselect and Join Practice
 13. Get the job ID and maximum salary of the employees where maximum salary is greater than or equal to $4000.
 14. Get the average salary for all departments employing more than 10 employees.
 
-# Subqueries (21 Questions)
+## Subqueries (21 Questions)
 
 1. Find the name (first_name, last_name) and the salary of the employees who have a higher salary than the employee whose last_name='Bull'.
 2. Find the name (first_name, last_name) of all employees who works in the IT department.
@@ -45,7 +45,7 @@ SQL Aggregates, Subselect and Join Practice
 20. Get 3 maximum salaries.
 21. Get 3 minimum salaries.
 
-# Joins (13 Questions)
+## Joins (13 Questions)
 
 1. Find the addresses (location_id, street_address, city, state_province, country_name) of all the departments. Hint : Use NATURAL JOIN.
 2. Find the name (first_name, last name), department ID and name of all the employees.
